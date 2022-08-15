@@ -1,13 +1,4 @@
-
-In this directory, you should write the program `wcat.c` and compile it into
-the binary `wcat` (e.g., `gcc -o wcat wcat.c -Wall -Werror`).
-
-After doing so, you can run the tests from this directory by running the
-`test-wcat.sh` script. If all goes well, you will see:
-
-```sh
-
-<h1>EVALUACIÓN 1</h1>
+<h1> EVALUACIÓN 1 </h1>
 
 1.Cree una carpeta en la cual pudiera clonar el git con sus diferentes archivos.
 2.Modifique el archivo wcat.c.
@@ -16,7 +7,7 @@ After doing so, you can run the tests from this directory by running the
 5.Adicione un titulo un texto corto, una imagen, un hipervinculo, y los respectivo comandos que utilize.
 
 <img src="img/linux.jpg" alt="">
-<a href="https://github.com/github">Nueva pagina</a>
+https://github.com/github
 
 Comandos git que utilize:
 ls
@@ -47,22 +38,6 @@ git remote add origin
 git push -u origin main
 
 
-prompt> ./test-wcat.sh
-test 1: passed
-test 2: passed
-test 3: passed
-test 4: passed
-test 5: passed
-test 6: passed
-test 7: passed
-prompt>
-```
-
-The `test-wcat.sh` script is just a wrapper for the `run-tests.sh` script in
-the `tester` directory of this repository. This program has a few options; see
-the relevant
-[README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
-for details.
 
 
 
