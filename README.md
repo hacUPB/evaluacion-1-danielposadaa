@@ -10,7 +10,7 @@
 
 -5.Adicione un titulo un texto corto, una imagen, un hipervinculo, y los respectivo comandos que utilize.
 
--![alt text](https://imgur.com/a/neheh7Q)
+-![alt text](https://i.imgur.com/43rmQnU.jpeg)
 
 -https://github.com/github
 
